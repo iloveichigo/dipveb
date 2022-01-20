@@ -9,3 +9,5 @@ Case vbNo
     x=msgbox("Seni oldurecegim!!!" ,0, "Dark web killer")
     x=msgbox("Aslinda buraya mavi ekran koyacaktim fakat belki sorun olur diye koymadim." ,0, "@iloveichigo")
 End Select
+
+x=msgbox("Iste bu yuzden sakin dipvebe girmeyin." ,0, "@iloveichigo")
